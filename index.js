@@ -1,6 +1,6 @@
 var readlinesync = require('readline-sync');
 
-console.log("\n                      Shape Up");
+console.log("\n              Game Of Shapes");
 console.log("1.*\n  * * \n  * * * ");
 console.log("-------------------------------------");
 console.log("2.* * *\n  * * \n  * ");
